@@ -73,8 +73,12 @@ You can replicate the analysis using a similar dataset of user event logs.
 
 ---
 ## 📂 Repository Contents
+foodtech-ab-test dataset.csv # A/B test dataset (for demo/educational use)
+
 AB_Test_Food_Tech_Analysis.ipynb # Detailed Python notebook with analysis
 
 A-B_Test_Analysis_Presentation.pdf # Slide deck with insights & recommendations
 
 README.md # Project overview
+
+
